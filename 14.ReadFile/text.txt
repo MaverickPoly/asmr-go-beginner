@@ -1,0 +1,6 @@
+File Reader program implemented in Go:
+Hello World
+Привет мир
+مرحبًا، العالم
+你好，世界
+Hola Mundo!
